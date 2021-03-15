@@ -1,3 +1,3 @@
-lignes
+REMOTE
 de
 texte
