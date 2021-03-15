@@ -1,3 +1,3 @@
-lignes
+LOCAL
 de
 texte
